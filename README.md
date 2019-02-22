@@ -1,2 +1,2 @@
-# Simple-Website
-Example repository from A Practical Guide to Git
+# phonetic-website
+This repository is used for Git and GitHub training.
